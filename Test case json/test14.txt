@@ -1,0 +1,4 @@
+{
+  "emoji": "\uXYZZ"
+  "description": "Invalid Emoji"
+}

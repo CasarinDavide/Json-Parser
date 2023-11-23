@@ -1,0 +1,9 @@
+{
+  "name": John
+  "age": 30 
+  "occupation": Engineer
+  "city": "New York"
+  "country": "USA"
+  "married": true
+  "salary": 50000
+}

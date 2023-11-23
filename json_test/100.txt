@@ -1,0 +1,1196 @@
+{
+    "count": 4315,
+    "next": "http://showtimes.everyday.in.th/api/v2/movie/?limit=20&offset=20",
+    "previous": null,
+    "results": [
+        {
+            "id": 21250,
+            "title": "Avengers: Secret Wars",
+            "language": "en",
+            "release_date": "2025-11-05",
+            "details": [
+                {
+                    "id": 6319,
+                    "language": "en",
+                    "title": "Avengers: Secret Wars",
+                    "director": "",
+                    "tagline": "",
+                    "cast": "",
+                    "storyline": "An upcoming Phase 6 Marvel Cinematic Universe film that will conclude the Multiverse Saga."
+                }
+            ],
+            "tags": [],
+            "videos": [],
+            "images": [
+                {
+                    "id": 40499,
+                    "order": 3,
+                    "url": "https://showtimesth.s3.amazonaws.com/2022/09/7d3f9bace9254e541dd14bcf60528d60266d7f12.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163525Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=862f8becc48dac550920d830e292c42cb24c44b47f8ea8c70aca6fa57e166c92",
+                    "type": "Backdrop",
+                    "thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2022/09/7d3f9bace9254e541dd14bcf60528d60266d7f12-thumbnail-780x439-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163525Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=15aa7a24f9aebc064f9a7f0d51183f566ca9224be464bcb362cc5dec68f6ede7"
+                },
+                {
+                    "id": 40501,
+                    "order": 2,
+                    "url": "https://showtimesth.s3.amazonaws.com/2022/09/f439df19f3c5316e58ce16c1b8d354161e831a1f.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163525Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=ce5cac7d39acfd252e3a814c04afbcb059095ead0a0b7899f4de7d74e04324ce",
+                    "type": "Poster",
+                    "thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2022/09/f439df19f3c5316e58ce16c1b8d354161e831a1f-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163525Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=05cfb8e1d9c6a5d5430ef359734904cf96a4f45f5508fcb099b3dd431a9d6ed4"
+                },
+                {
+                    "id": 40500,
+                    "order": 0,
+                    "url": "https://showtimesth.s3.amazonaws.com/2022/09/ceef208571a7a5feb08fb9b91349311eeada5cf2.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163525Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=c7d64ee94328003ded781ff874fbf419ea1b6c55488e9cd93ec2ca056183dec8",
+                    "type": "Poster",
+                    "thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2022/09/ceef208571a7a5feb08fb9b91349311eeada5cf2-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163525Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=97b9c2b7508808556aabc453b3c9a1bbc36a81458004c0463b8c9fe28526e3ef"
+                }
+            ],
+            "collections": [
+                {
+                    "id": 26,
+                    "name": "Avengers",
+                    "slug": "avengers",
+                    "movies": [
+                        21250,
+                        21251,
+                        17515,
+                        14907,
+                        70,
+                        5405
+                    ]
+                }
+            ],
+            "watches": 0,
+            "duration": 0,
+            "active_screens": 0,
+            "vote_score": {
+                "avg": 0,
+                "score": 0,
+                "total": 0
+            },
+            "fav_movie": {
+                "star": false,
+                "follow": false,
+                "watched": false
+            },
+            "stars": 0,
+            "ratings": [],
+            "feeders": [
+                {
+                    "name": "tmdb",
+                    "url": "https://www.themoviedb.org/movie/1003598"
+                },
+                {
+                    "name": "imdb",
+                    "url": "https://www.imdb.com/title/tt21361444/"
+                }
+            ]
+        },
+        {
+            "id": 21251,
+            "title": "Avengers: The Kang Dynasty",
+            "language": "en",
+            "release_date": "2025-04-30",
+            "details": [
+                {
+                    "id": 6320,
+                    "language": "en",
+                    "title": "Avengers: The Kang Dynasty",
+                    "director": "Destin Daniel Cretton",
+                    "tagline": "",
+                    "cast": "",
+                    "storyline": "An upcoming Phase 6 Marvel Cinematic Universe film and part of The Multiverse Saga."
+                }
+            ],
+            "tags": [],
+            "videos": [],
+            "images": [
+                {
+                    "id": 40502,
+                    "order": 0,
+                    "url": "https://showtimesth.s3.amazonaws.com/2022/09/03ca1e747e397f3ff4573d87fa9deaa7c003516e.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163525Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=78a44c1ee41d7e39c7e7327c9e6847ead68f55f1b5a6b33cdb204cbe26045923",
+                    "type": "Backdrop",
+                    "thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2022/09/03ca1e747e397f3ff4573d87fa9deaa7c003516e-thumbnail-780x439-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163525Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=8af5c061b23602532528c18918e55fb8fc6ad3290e4d8a9580c976329d5ae0b7"
+                },
+                {
+                    "id": 40503,
+                    "order": 0,
+                    "url": "https://showtimesth.s3.amazonaws.com/2022/09/ff3eedc12f2bf42eadc74cdb41732c48b9b6b44a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163525Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=33aa593c814a71a8367eb20845e1e468a287b48e70b07cdb2f51cacd2793d3e5",
+                    "type": "Poster",
+                    "thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2022/09/ff3eedc12f2bf42eadc74cdb41732c48b9b6b44a-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163525Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=f80c8665ba36c9dc306ae4bf685d61872cb23a16141ba1d7a32a75598865a405"
+                }
+            ],
+            "collections": [
+                {
+                    "id": 26,
+                    "name": "Avengers",
+                    "slug": "avengers",
+                    "movies": [
+                        21250,
+                        21251,
+                        17515,
+                        14907,
+                        70,
+                        5405
+                    ]
+                }
+            ],
+            "watches": 0,
+            "duration": 0,
+            "active_screens": 0,
+            "vote_score": {
+                "avg": 0,
+                "score": 0,
+                "total": 0
+            },
+            "fav_movie": {
+                "star": false,
+                "follow": false,
+                "watched": false
+            },
+            "stars": 0,
+            "ratings": [],
+            "feeders": [
+                {
+                    "name": "tmdb",
+                    "url": "https://www.themoviedb.org/movie/1003596"
+                },
+                {
+                    "name": "imdb",
+                    "url": "https://www.imdb.com/title/tt21357150/"
+                }
+            ]
+        },
+        {
+            "id": 21979,
+            "title": "Karate Kid",
+            "language": "-",
+            "release_date": "2024-12-25",
+            "details": [],
+            "tags": null,
+            "videos": [],
+            "images": [],
+            "collections": [],
+            "watches": 0,
+            "duration": 0,
+            "active_screens": 0,
+            "vote_score": {
+                "avg": 0,
+                "score": 0,
+                "total": 0
+            },
+            "fav_movie": {
+                "star": false,
+                "follow": false,
+                "watched": false
+            },
+            "stars": 0,
+            "ratings": [],
+            "feeders": [
+                {
+                    "name": "sf",
+                    "url": "https://www.sfcinemacity.com/movie/Karate-Kid.HO00001785"
+                }
+            ]
+        },
+        {
+            "id": 21809,
+            "title": "Thunderbolts",
+            "language": "en",
+            "release_date": "2024-12-19",
+            "details": [
+                {
+                    "id": 6806,
+                    "language": "th",
+                    "title": "Thunderbolts",
+                    "director": "Jake Schreier",
+                    "tagline": "",
+                    "cast": "Olga Kurylenko, Wyatt Russell, Florence Pugh, Sebastian Stan, Harrison Ford",
+                    "storyline": "ติดตามเรื่องย่อไทยได้เร็วๆ นี้"
+                }
+            ],
+            "tags": [],
+            "videos": [],
+            "images": [
+                {
+                    "id": 42693,
+                    "order": 1,
+                    "url": "https://showtimesth.s3.amazonaws.com/2023/05/25ff73b9b3dc5a01e1fa1cb6b6f804e6d389b3cc.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163525Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=f2a3bbca5d3e9ec3ee5e8bfc4e7b69f227687f2a1273ee9efa5915d7a4607a19",
+                    "type": "Poster",
+                    "thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2023/05/25ff73b9b3dc5a01e1fa1cb6b6f804e6d389b3cc-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163525Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=78e53db8b2eb4e3f961f5e1c71e75f3484642c9dd74a3d15291b6bd2854fdf43"
+                }
+            ],
+            "collections": [],
+            "watches": 0,
+            "duration": 0,
+            "active_screens": 0,
+            "vote_score": {
+                "avg": 0,
+                "score": 0,
+                "total": 0
+            },
+            "fav_movie": {
+                "star": false,
+                "follow": false,
+                "watched": false
+            },
+            "stars": 0,
+            "ratings": [],
+            "feeders": [
+                {
+                    "name": "sf",
+                    "url": "https://www.sfcinemacity.com/movie/Thunderbolts.HO00001698"
+                }
+            ]
+        },
+        {
+            "id": 21861,
+            "title": "The Amateur",
+            "language": "en",
+            "release_date": "2024-11-07",
+            "details": [],
+            "tags": [],
+            "videos": [],
+            "images": [
+                {
+                    "id": 43702,
+                    "order": 1,
+                    "url": "https://showtimesth.s3.amazonaws.com/2023/08/2f07e929a3bd16ffa6e57be978d63ec83e3b1b49.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163525Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=b54370391da00802105a7da9da4a91ece6594638290e5df3f4330eddceb606d6",
+                    "type": "Poster",
+                    "thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2023/08/2f07e929a3bd16ffa6e57be978d63ec83e3b1b49-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163525Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=f485b07e9f466ccfae52bc51e03f4dc2c52426bf8e2b1200d0f12e3115cc45f5"
+                }
+            ],
+            "collections": [],
+            "watches": 0,
+            "duration": 0,
+            "active_screens": 0,
+            "vote_score": {
+                "avg": 0,
+                "score": 0,
+                "total": 0
+            },
+            "fav_movie": {
+                "star": false,
+                "follow": false,
+                "watched": false
+            },
+            "stars": 0,
+            "ratings": [],
+            "feeders": [
+                {
+                    "name": "sf",
+                    "url": "https://www.sfcinemacity.com/movie/The-Amateur.HO00001728"
+                },
+                {
+                    "name": "tmdb",
+                    "url": "https://www.themoviedb.org/movie/1087891"
+                }
+            ]
+        },
+        {
+            "id": 21710,
+            "title": "They Listen",
+            "language": "en",
+            "release_date": "2024-09-12",
+            "details": [
+                {
+                    "id": 6694,
+                    "language": "th",
+                    "title": "They Listen",
+                    "director": "Chris Weitz",
+                    "tagline": "",
+                    "cast": "John Cho, Katherine Waterston, Riki Lindhome",
+                    "storyline": "ติดตามเรื่องย่อไทยได้เร็วๆ นี้"
+                },
+                {
+                    "id": 6737,
+                    "language": "en",
+                    "title": "They Listen",
+                    "director": "Chris Weitz",
+                    "tagline": "",
+                    "cast": "John Cho, Katherine Waterston, Greg Hill, Riki Lindhome, Lukita Maxwell, Keith Carradine, Havana Rose Liu, Ben Youcef, Wyatt Lindner",
+                    "storyline": "Plot details are under wraps at the moment."
+                }
+            ],
+            "tags": [],
+            "videos": [],
+            "images": [
+                {
+                    "id": 43004,
+                    "order": 3,
+                    "url": "https://showtimesth.s3.amazonaws.com/2023/06/8547bafe36940bc13993f11abfbf2bd56d2550ef.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163525Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=7b42838d99b408133895e1c34705793e2c7db44584600e7b19a06ea937534074",
+                    "type": "Poster",
+                    "thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2023/06/8547bafe36940bc13993f11abfbf2bd56d2550ef-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163525Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=fe87fcb68714ec74c85e61e9b8d7f0a8c0f2536a270d953335023b8b8e945109"
+                },
+                {
+                    "id": 43027,
+                    "order": 1,
+                    "url": "https://showtimesth.s3.amazonaws.com/2023/06/a08c334d2a00731cc23d6d4ebb20ea54af12ef25.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163525Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=a98271d49825396304e3985b39fe0fe86187cba3e9fd1e7c673f7963c49fbe38",
+                    "type": "Poster",
+                    "thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2023/06/a08c334d2a00731cc23d6d4ebb20ea54af12ef25-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163525Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=0c1c0d1ed0164550def271c5c510af357d923070a9a6e5321f844f26bc512a10"
+                }
+            ],
+            "collections": [],
+            "watches": 0,
+            "duration": 0,
+            "active_screens": 0,
+            "vote_score": {
+                "avg": 0,
+                "score": 0,
+                "total": 0
+            },
+            "fav_movie": {
+                "star": false,
+                "follow": false,
+                "watched": false
+            },
+            "stars": 0,
+            "ratings": [],
+            "feeders": [
+                {
+                    "name": "sf",
+                    "url": "https://www.sfcinemacity.com/movie/They-Listen.HO00001638"
+                },
+                {
+                    "name": "tmdb",
+                    "url": "https://www.themoviedb.org/movie/1062215"
+                }
+            ]
+        },
+        {
+            "id": 21194,
+            "title": "Blade",
+            "language": "en",
+            "release_date": "2024-09-05",
+            "details": [
+                {
+                    "id": 6271,
+                    "language": "th",
+                    "title": "Blade",
+                    "director": "Yann Demange",
+                    "tagline": "",
+                    "cast": "Mahershala Ali, Mia Goth, Aaron Pierre",
+                    "storyline": "ติดตามเรื่องย่อไทยได้เร็วๆ นี้"
+                },
+                {
+                    "id": 6944,
+                    "language": "en",
+                    "title": "Blade",
+                    "director": "Yann Demange",
+                    "tagline": "",
+                    "cast": "Mahershala Ali, Delroy Lindo, Aaron Pierre, Mia Goth",
+                    "storyline": "A film set in the Marvel Cinematic Universe (MCU) based on the Marvel Comics character of the same name."
+                }
+            ],
+            "tags": [],
+            "videos": [],
+            "images": [
+                {
+                    "id": 43496,
+                    "order": 1,
+                    "url": "https://showtimesth.s3.amazonaws.com/2023/08/024fc624e3a0fb5b8a61e4e2d6bbe8249b5853b1.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=fba4305d61d4e8113021bf109a71354b188539bb093127301ff7d5381fb1e2a0",
+                    "type": "Backdrop",
+                    "thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2023/08/024fc624e3a0fb5b8a61e4e2d6bbe8249b5853b1-thumbnail-780x439-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=92ef5789491f84108b9c395a3414b96762f2bb39eece692567572ca1df5df94d"
+                },
+                {
+                    "id": 40257,
+                    "order": 1,
+                    "url": "https://showtimesth.s3.amazonaws.com/2022/08/d7b2b03de98d019676216ac9e02ed703157dd1f0.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=e54cbff323c982e0bf285fc0170f456bab5f8da57390457a8e9f498dcc72d2e9",
+                    "type": "Poster",
+                    "thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2022/08/d7b2b03de98d019676216ac9e02ed703157dd1f0-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=436d8fd13886e282f179496aba4c65672de39bbe5395ae4169cbd301439ddc98"
+                },
+                {
+                    "id": 43497,
+                    "order": 0,
+                    "url": "https://showtimesth.s3.amazonaws.com/2023/08/ffb82380a3ab4611026c3245ee25d5e5d4501e4f.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=4182a7837ebe9d4d0d12580d30fe1015edae5a35fd751a378872c3fa58668b30",
+                    "type": "Poster",
+                    "thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2023/08/ffb82380a3ab4611026c3245ee25d5e5d4501e4f-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=2fdc0d3b9cccae892f22b3daeb80c29bfe7655d634b943cf2b62772fa43d29fa"
+                }
+            ],
+            "collections": [],
+            "watches": 0,
+            "duration": 0,
+            "active_screens": 0,
+            "vote_score": {
+                "avg": 0,
+                "score": 0,
+                "total": 0
+            },
+            "fav_movie": {
+                "star": false,
+                "follow": false,
+                "watched": false
+            },
+            "stars": 0,
+            "ratings": [],
+            "feeders": [
+                {
+                    "name": "sf",
+                    "url": "https://www.sfcinemacity.com/movie/HO00001349"
+                },
+                {
+                    "name": "tmdb",
+                    "url": "https://www.themoviedb.org/movie/617127"
+                }
+            ]
+        },
+        {
+            "id": 21070,
+            "title": "Kraven the Hunter",
+            "language": "en",
+            "release_date": "2024-08-28",
+            "details": [
+                {
+                    "id": 6237,
+                    "language": "en",
+                    "title": "Kraven the Hunter",
+                    "director": "J.C. Chandor",
+                    "tagline": "",
+                    "cast": "Aaron Taylor-Johnson, Ariana DeBose, Russell Crowe, Alessandro Nivola, Christopher Abbott, Fred Hechinger, Levi Miller",
+                    "storyline": "Sergei Kravinoff is a big game hunter, who takes a magical serum giving him superhuman abilities and a longer life."
+                },
+                {
+                    "id": 6138,
+                    "language": "th",
+                    "title": "เครเว่น เดอะ ฮันเตอร์",
+                    "director": "J.C. Chandor",
+                    "tagline": "",
+                    "cast": "Russell Crowe, Ariana DeBose, Aaron Taylor-Johnson",
+                    "storyline": "ติดตามเรื่องย่อไทยได้เร็วๆ นี้"
+                }
+            ],
+            "tags": [],
+            "videos": [
+                {
+                    "url": "https://youtu.be/PoxXjivNOok",
+                    "source": "#S",
+                    "kind": "Trailer",
+                    "language": "th"
+                }
+            ],
+            "images": [
+                {
+                    "id": 40170,
+                    "order": 3,
+                    "url": "https://showtimesth.s3.amazonaws.com/2022/08/9ce125b77d4ea8c142f3120d797be9e5d36f7caa.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=121438c3f2875b747f90351bc8ba037ef0623072c07f296fe010f9c77b8e1071",
+                    "type": "Poster",
+                    "thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2022/08/9ce125b77d4ea8c142f3120d797be9e5d36f7caa-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=8d6f74b080f04c789b1847e76ab469fbeb58f86fa6239915cb81d21f8e3f0e52"
+                },
+                {
+                    "id": 39772,
+                    "order": 1,
+                    "url": "https://showtimesth.s3.amazonaws.com/2022/06/14443b45ffd265de75a02ddb65b13cf5326973c7.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=ab88ae41c2837fe9d2cd485a8d9e7d368b5c64d5e00057d22f13a7f4eb257d58",
+                    "type": "Poster",
+                    "thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2022/06/14443b45ffd265de75a02ddb65b13cf5326973c7-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=70143431a2d66ef5a1e9857e26430b0237d82fa0cb6ea5e7382c05004c32a6b9"
+                }
+            ],
+            "collections": [],
+            "watches": 0,
+            "duration": 0,
+            "active_screens": 0,
+            "vote_score": {
+                "avg": 0,
+                "score": 0,
+                "total": 0
+            },
+            "fav_movie": {
+                "star": false,
+                "follow": false,
+                "watched": false
+            },
+            "stars": 0,
+            "ratings": [],
+            "feeders": [
+                {
+                    "name": "sf",
+                    "url": "https://www.sfcinemacity.com/movie/HO00001286"
+                },
+                {
+                    "name": "tmdb",
+                    "url": "https://www.themoviedb.org/movie/539972"
+                }
+            ]
+        },
+        {
+            "id": 21860,
+            "title": "Alien: Romulus",
+            "language": "en",
+            "release_date": "2024-08-15",
+            "details": [
+                {
+                    "id": 6857,
+                    "language": "th",
+                    "title": "Alien: Romulus",
+                    "director": "Fede Alvarez",
+                    "tagline": "",
+                    "cast": "Cailee Spaeny, Isabela Merced, Archie Renaux",
+                    "storyline": "ติดตามเรื่องย่อไทยได้เร็วๆ นี้"
+                }
+            ],
+            "tags": [],
+            "videos": [],
+            "images": [
+                {
+                    "id": 43701,
+                    "order": 1,
+                    "url": "https://showtimesth.s3.amazonaws.com/2023/08/2de2a7efbdab05d3aa0f9ee866e4492a8411ad06.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=c433b31b2238857be7bf253ce9374e15bc700558668aa39e06ffb70355ce222a",
+                    "type": "Poster",
+                    "thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2023/08/2de2a7efbdab05d3aa0f9ee866e4492a8411ad06-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=d5382455812c7839a71cf35235e53eb818b6ab3c682292b2092754769eecbd15"
+                }
+            ],
+            "collections": [],
+            "watches": 0,
+            "duration": 0,
+            "active_screens": 0,
+            "vote_score": {
+                "avg": 0,
+                "score": 0,
+                "total": 0
+            },
+            "fav_movie": {
+                "star": false,
+                "follow": false,
+                "watched": false
+            },
+            "stars": 0,
+            "ratings": [],
+            "feeders": [
+                {
+                    "name": "sf",
+                    "url": "https://www.sfcinemacity.com/movie/Alien-Romulus.HO00001729"
+                },
+                {
+                    "name": "tmdb",
+                    "url": "https://www.themoviedb.org/movie/945961"
+                }
+            ]
+        },
+        {
+            "id": 21319,
+            "title": "Harold and the Purple Crayon",
+            "language": "en",
+            "release_date": "2024-08-08",
+            "details": [
+                {
+                    "id": 6382,
+                    "language": "en",
+                    "title": "Harold and the Purple Crayon",
+                    "director": "Carlos Saldanha",
+                    "tagline": "",
+                    "cast": "Zachary Levi, Lil Rel Howery, Zooey Deschanel, Camille Guaty, Ravi Patel, Tanya Reynolds, Pete Gardner, TJ Jackson, Dijon",
+                    "storyline": "Based on the children's book, where 4-year-old Harold uses a purple crayon to create a world of his own by just drawing."
+                },
+                {
+                    "id": 6373,
+                    "language": "th",
+                    "title": "Harold and the Purple Crayon",
+                    "director": "Carlos Saldanha",
+                    "tagline": "",
+                    "cast": "Zachary Levi, Zooey Deschanel, Tanya Reynolds",
+                    "storyline": "ติดตามเรื่องย่อไทยได้เร็วๆ นี้"
+                }
+            ],
+            "tags": [],
+            "videos": [],
+            "images": [
+                {
+                    "id": 40786,
+                    "order": 4,
+                    "url": "https://showtimesth.s3.amazonaws.com/2022/10/bd70dd5e42d6886d390af47d5f971a40f54475af.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=83e580d4a99563607ea4551801bc449dc9543714a63abbe67dd542cb43f21bae",
+                    "type": "Poster",
+                    "thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2022/10/bd70dd5e42d6886d390af47d5f971a40f54475af-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=034f34a2c52be35f134368e6f8b7013985d9a2a85a385099fb2a133d23c52299"
+                },
+                {
+                    "id": 42126,
+                    "order": 1,
+                    "url": "https://showtimesth.s3.amazonaws.com/2023/03/ce2d08804c8029d777431d34dbd963c1463144f5.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=71966346838ee61310d296a18a95d886c70bc73a7fe279b0c79665671e50cf0b",
+                    "type": "Poster",
+                    "thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2023/03/ce2d08804c8029d777431d34dbd963c1463144f5-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=f706960dae6d8af5d40c04964a6ef891c7448598470a3d4d087620af9714c068"
+                }
+            ],
+            "collections": [],
+            "watches": 0,
+            "duration": 92,
+            "active_screens": 0,
+            "vote_score": {
+                "avg": 0,
+                "score": 0,
+                "total": 0
+            },
+            "fav_movie": {
+                "star": false,
+                "follow": false,
+                "watched": false
+            },
+            "stars": 0,
+            "ratings": [],
+            "feeders": [
+                {
+                    "name": "sf",
+                    "url": "https://www.sfcinemacity.com/movie/Harold-and-the-Purple-Crayon.HO00001405"
+                },
+                {
+                    "name": "tmdb",
+                    "url": "https://www.themoviedb.org/movie/826510"
+                }
+            ]
+        },
+        {
+            "id": 21841,
+            "title": "Captain America: Brave New World",
+            "language": "en",
+            "release_date": "2024-07-25",
+            "details": [
+                {
+                    "id": 6836,
+                    "language": "th",
+                    "title": "Captain America: Brave New World",
+                    "director": "Julius Onah",
+                    "tagline": "",
+                    "cast": "Anthony Mackie, Sebastian Stan, Harrison Ford",
+                    "storyline": "ติดตามเรื่องย่อไทยได้เร็วๆ นี้"
+                },
+                {
+                    "id": 6912,
+                    "language": "en",
+                    "title": "Captain America: Brave New World",
+                    "director": "Julius Onah",
+                    "tagline": "",
+                    "cast": "Anthony Mackie, Danny Ramirez, Tim Blake Nelson, Liv Tyler, Carl Lumbly, Shira Haas, Harrison Ford, Xosha Roquemore, Colby Lopez",
+                    "storyline": "A sequel to Marvel Studios' The Falcon and the Winter Soldier and follows Sam Wilson as the new Captain America."
+                }
+            ],
+            "tags": [],
+            "videos": [],
+            "images": [
+                {
+                    "id": 43247,
+                    "order": 4,
+                    "url": "https://showtimesth.s3.amazonaws.com/2023/07/63ca0fcfa0ea955811b57a49468cee1888b5e894.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=cb51e6f400b9ac3792fd0d6882c826e11bdaeb8722d243f8efeec8a650b2e220",
+                    "type": "Backdrop",
+                    "thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2023/07/63ca0fcfa0ea955811b57a49468cee1888b5e894-thumbnail-780x439-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=b62f98525bad4a6cf107e8b48f8f9b015d35212bf7b57881a19b41b7708c5cc8"
+                },
+                {
+                    "id": 43249,
+                    "order": 4,
+                    "url": "https://showtimesth.s3.amazonaws.com/2023/07/fe7fb13d99df90132c6c6c2a3cbbc9b65981592d.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=ee1845678ab9471c2e3751568ddd529bf5a86efb5301bfb5ea3683aadb0ad15a",
+                    "type": "Poster",
+                    "thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2023/07/fe7fb13d99df90132c6c6c2a3cbbc9b65981592d-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=a07e6933e3dab265e20eaafc7831f97cf286087206a9111de72496f47b6c3993"
+                },
+                {
+                    "id": 42801,
+                    "order": 1,
+                    "url": "https://showtimesth.s3.amazonaws.com/2023/06/4d01c08cc0b51115391df2c34a79daad6cbae59a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=646bd84c3631ca602c1b8565a3d0cf6c93986d0689b696d7b9b7b8479e63ac81",
+                    "type": "Poster",
+                    "thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2023/06/4d01c08cc0b51115391df2c34a79daad6cbae59a-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=a88c347ecbd28e630e9509ea5a4ccdc68067db0f5b24df7b56b59005e41ba52f"
+                }
+            ],
+            "collections": [],
+            "watches": 0,
+            "duration": 0,
+            "active_screens": 0,
+            "vote_score": {
+                "avg": 0,
+                "score": 0,
+                "total": 0
+            },
+            "fav_movie": {
+                "star": false,
+                "follow": false,
+                "watched": false
+            },
+            "stars": 0,
+            "ratings": [],
+            "feeders": [
+                {
+                    "name": "sf",
+                    "url": "https://www.sfcinemacity.com/movie/Captain-America-Brave-New-World.HO00001680"
+                },
+                {
+                    "name": "tmdb",
+                    "url": "https://www.themoviedb.org/movie/822119"
+                }
+            ]
+        },
+        {
+            "id": 21953,
+            "title": "Horrorscope",
+            "language": "en",
+            "release_date": "2024-07-18",
+            "details": [
+                {
+                    "id": 6946,
+                    "language": "en",
+                    "title": "Horrorscope",
+                    "director": "Spenser Cohen",
+                    "tagline": "",
+                    "cast": "Alana Boden, Adain Bradley, Jacob Batalon, Humberly González, Wolfgang Novogratz, Avantika Vandanapu, Larsen Thompson, Olwen Fouéré, Harriet Slater",
+                    "storyline": "After attending a horoscope party, people begin dying in ways connected to their zodiac signs. Four friends must work together to solve the mystery before their numbers are up."
+                },
+                {
+                    "id": 6940,
+                    "language": "th",
+                    "title": "Horrorscope",
+                    "director": "Spenser Cohen, Anna Halberg",
+                    "tagline": "",
+                    "cast": "Harriet Slater, Jacob Batalon, Alana Boden, Humberly González",
+                    "storyline": "ติดตามเรื่องย่อไทยได้เร็วๆ นี้"
+                }
+            ],
+            "tags": null,
+            "videos": [],
+            "images": [
+                {
+                    "id": 43316,
+                    "order": 1,
+                    "url": "https://showtimesth.s3.amazonaws.com/2023/07/f9754ba0adbf89c0b6799dd6166463d993da250a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=dfc0f23409b3cec81730ca64159cf8649a0d7c906c6fa055c6a64afec446e54b",
+                    "type": "Poster",
+                    "thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2023/07/f9754ba0adbf89c0b6799dd6166463d993da250a-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=1e85f00b223f0645c743c9ed90f9a0968a8ac4626e79ca3d1f54a5298c2e7dbd"
+                }
+            ],
+            "collections": [],
+            "watches": 0,
+            "duration": 0,
+            "active_screens": 0,
+            "vote_score": {
+                "avg": 0,
+                "score": 0,
+                "total": 0
+            },
+            "fav_movie": {
+                "star": false,
+                "follow": false,
+                "watched": false
+            },
+            "stars": 0,
+            "ratings": [],
+            "feeders": [
+                {
+                    "name": "sf",
+                    "url": "https://www.sfcinemacity.com/movie/Horrorscope.HO00001771"
+                },
+                {
+                    "name": "tmdb",
+                    "url": "https://www.themoviedb.org/movie/719221"
+                }
+            ]
+        },
+        {
+            "id": 21978,
+            "title": "Venom 3",
+            "language": "-",
+            "release_date": "2024-07-10",
+            "details": [],
+            "tags": null,
+            "videos": [],
+            "images": [],
+            "collections": [],
+            "watches": 0,
+            "duration": 0,
+            "active_screens": 0,
+            "vote_score": {
+                "avg": 0,
+                "score": 0,
+                "total": 0
+            },
+            "fav_movie": {
+                "star": false,
+                "follow": false,
+                "watched": false
+            },
+            "stars": 0,
+            "ratings": [],
+            "feeders": [
+                {
+                    "name": "sf",
+                    "url": "https://www.sfcinemacity.com/movie/Venom-3.HO00001783"
+                }
+            ]
+        },
+        {
+            "id": 21808,
+            "title": "Mufasa: The Lion King",
+            "language": "en",
+            "release_date": "2024-07-04",
+            "details": [
+                {
+                    "id": 6805,
+                    "language": "th",
+                    "title": "มูฟาซา: เดอะ ไลอ้อน คิง",
+                    "director": "Barry Jenkins",
+                    "tagline": "",
+                    "cast": "Seth Rogen, Billy Eichner, Aaron Pierre",
+                    "storyline": "ติดตามเรื่องย่อไทยได้เร็วๆ นี้"
+                }
+            ],
+            "tags": [],
+            "videos": [],
+            "images": [
+                {
+                    "id": 42692,
+                    "order": 1,
+                    "url": "https://showtimesth.s3.amazonaws.com/2023/05/8d27eae00df53bae4a1b97f0f73f64a8d16602f0.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=3bddd2ee0092f85723dedd6db1a023a52c828cf8c23a0fbe813960ffe6ac159d",
+                    "type": "Poster",
+                    "thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2023/05/8d27eae00df53bae4a1b97f0f73f64a8d16602f0-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=4a7ff701d20761de08dbaf4e8716c98681d44d1962379f5dc89093fcbff68d8d"
+                }
+            ],
+            "collections": [],
+            "watches": 0,
+            "duration": 0,
+            "active_screens": 0,
+            "vote_score": {
+                "avg": 0,
+                "score": 0,
+                "total": 0
+            },
+            "fav_movie": {
+                "star": false,
+                "follow": false,
+                "watched": false
+            },
+            "stars": 0,
+            "ratings": [],
+            "feeders": [
+                {
+                    "name": "sf",
+                    "url": "https://www.sfcinemacity.com/movie/Mufasa-The-Lion-King.HO00001694"
+                }
+            ]
+        },
+        {
+            "id": 21239,
+            "title": "Mission: Impossible - Dead Reckoning Part Two",
+            "language": "en",
+            "release_date": "2024-06-26",
+            "details": [
+                {
+                    "id": 6308,
+                    "language": "en",
+                    "title": "Mission: Impossible - Dead Reckoning Part Two",
+                    "director": "Christopher McQuarrie",
+                    "tagline": "",
+                    "cast": "Tom Cruise, Rebecca Ferguson, Simon Pegg, Ving Rhames, Henry Czerny, Holt McCallany, Nick Offerman, Charles Parnell, Janet McTeer",
+                    "storyline": "The eighth instalment of the Mission: Impossible franchise."
+                }
+            ],
+            "tags": [],
+            "videos": [],
+            "images": [
+                {
+                    "id": 40464,
+                    "order": 3,
+                    "url": "https://showtimesth.s3.amazonaws.com/2022/09/da1699f9cfc7a71ac5b45005718a9845e1e34d50.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=94b553c88a36e5be4bc4e6155ed603574231fa5c52e8a1330469c9b3b3225a08",
+                    "type": "Poster",
+                    "thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2022/09/da1699f9cfc7a71ac5b45005718a9845e1e34d50-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=6899a86a5a6840732e38ec84d302c51adf1c02a07f93efda8effb6fb812e1048"
+                },
+                {
+                    "id": 40465,
+                    "order": 0,
+                    "url": "https://showtimesth.s3.amazonaws.com/2022/09/80db31fb41e0077e56720b4648954481ada9ff15.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=342aef7b883b018c27b3b31abd5461571f61a9a0434e41f71f05a2161e64e149",
+                    "type": "Poster",
+                    "thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2022/09/80db31fb41e0077e56720b4648954481ada9ff15-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=290b4838ecce85e8ce9f6f35965af458fd42173e50e7b60cc24f366b902dab2a"
+                }
+            ],
+            "collections": [
+                {
+                    "id": 9,
+                    "name": "Mission Impossible",
+                    "slug": "mission-impossible",
+                    "movies": [
+                        21239,
+                        20552,
+                        16362,
+                        386,
+                        5648,
+                        5647,
+                        5646,
+                        5645
+                    ]
+                }
+            ],
+            "watches": 0,
+            "duration": 0,
+            "active_screens": 0,
+            "vote_score": {
+                "avg": 0,
+                "score": 0,
+                "total": 0
+            },
+            "fav_movie": {
+                "star": false,
+                "follow": false,
+                "watched": false
+            },
+            "stars": 0,
+            "ratings": [],
+            "feeders": [
+                {
+                    "name": "tmdb",
+                    "url": "https://www.themoviedb.org/movie/575265"
+                },
+                {
+                    "name": "imdb",
+                    "url": "https://www.imdb.com/title/tt9603208/"
+                }
+            ]
+        },
+        {
+            "id": 21807,
+            "title": "Inside Out 2",
+            "language": "-",
+            "release_date": "2024-06-13",
+            "details": [
+                {
+                    "id": 6804,
+                    "language": "th",
+                    "title": "Inside Out 2",
+                    "director": "Kelsey Mann",
+                    "tagline": "",
+                    "cast": "Diane Lane, Amy Poehler, Lewis Black",
+                    "storyline": "ติดตามเรื่องย่อไทยได้เร็วๆ นี้"
+                }
+            ],
+            "tags": null,
+            "videos": [],
+            "images": [
+                {
+                    "id": 42691,
+                    "order": 1,
+                    "url": "https://showtimesth.s3.amazonaws.com/2023/05/7ec55970e85e33876035a0293cc81cf2875285f3.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=47fce733a2e68a44aa1c7c95e780455aad6b5d1ec5f9ce7c0db965a8b48f133d",
+                    "type": "Poster",
+                    "thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2023/05/7ec55970e85e33876035a0293cc81cf2875285f3-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=5e1707600b3a6db884af77f392f14fe66595404fee73b61273621400174edb08"
+                },
+                {
+                    "id": 42746,
+                    "order": 1,
+                    "url": "https://showtimesth.s3.amazonaws.com/2023/06/71bcb1bd1ee4e6437e1c430ceee748087369834b.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=a2ca0796fe3104634a869dd0c07b5e2ee79cc8fae67dd98a9172133fe4fad529",
+                    "type": "Backdrop",
+                    "thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2023/06/71bcb1bd1ee4e6437e1c430ceee748087369834b-thumbnail-780x439-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=9fe72ffca12d831e066151d06e0b0ff4dac6f8e664139b229a4992e090b73e49"
+                }
+            ],
+            "collections": [],
+            "watches": 0,
+            "duration": 0,
+            "active_screens": 0,
+            "vote_score": {
+                "avg": 0,
+                "score": 0,
+                "total": 0
+            },
+            "fav_movie": {
+                "star": false,
+                "follow": false,
+                "watched": false
+            },
+            "stars": 0,
+            "ratings": [],
+            "feeders": [
+                {
+                    "name": "sf",
+                    "url": "https://www.sfcinemacity.com/movie/Inside-Out-2.HO00001693"
+                }
+            ]
+        },
+        {
+            "id": 21977,
+            "title": "Bad Boys 4",
+            "language": "-",
+            "release_date": "2024-06-13",
+            "details": [],
+            "tags": null,
+            "videos": [],
+            "images": [],
+            "collections": [],
+            "watches": 0,
+            "duration": 0,
+            "active_screens": 0,
+            "vote_score": {
+                "avg": 0,
+                "score": 0,
+                "total": 0
+            },
+            "fav_movie": {
+                "star": false,
+                "follow": false,
+                "watched": false
+            },
+            "stars": 0,
+            "ratings": [],
+            "feeders": [
+                {
+                    "name": "sf",
+                    "url": "https://www.sfcinemacity.com/movie/Bad-Boys-4.HO00001784"
+                }
+            ]
+        },
+        {
+            "id": 21788,
+            "title": "Kingdom of the Planet of the Apes",
+            "language": "-",
+            "release_date": "2024-05-23",
+            "details": [
+                {
+                    "id": 6781,
+                    "language": "th",
+                    "title": "Kingdom of the Planet of the Apes",
+                    "director": "Wes Ball",
+                    "tagline": "",
+                    "cast": "Kevin Durand, Neil Sandilands, Dichen Lachman",
+                    "storyline": "ติดตามเรื่องย่อไทยได้เร็วๆ นี้"
+                }
+            ],
+            "tags": null,
+            "videos": [],
+            "images": [
+                {
+                    "id": 42540,
+                    "order": 1,
+                    "url": "https://showtimesth.s3.amazonaws.com/2023/05/63db8a62bd04be2c5c78727b0f98f9034fe54ef5.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=ab73461c84cb768ef996bbd2c959b3c145217ca7fce318d997bb8ca4b7e79a06",
+                    "type": "Poster",
+                    "thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2023/05/63db8a62bd04be2c5c78727b0f98f9034fe54ef5-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=a4d456b37d6087a4ec97104574a24af419797719ed160d6dff094f7531a2cd4a"
+                }
+            ],
+            "collections": [],
+            "watches": 0,
+            "duration": 0,
+            "active_screens": 0,
+            "vote_score": {
+                "avg": 0,
+                "score": 0,
+                "total": 0
+            },
+            "fav_movie": {
+                "star": false,
+                "follow": false,
+                "watched": false
+            },
+            "stars": 0,
+            "ratings": [],
+            "feeders": [
+                {
+                    "name": "sf",
+                    "url": "https://www.sfcinemacity.com/movie/Kingdom-of-the-Planet-of-the-Apes.HO00001685"
+                }
+            ]
+        },
+        {
+            "id": 21782,
+            "title": "Garfield",
+            "language": "-",
+            "release_date": "2024-05-22",
+            "details": [
+                {
+                    "id": 6775,
+                    "language": "th",
+                    "title": "Garfield",
+                    "director": "Mark Dindal",
+                    "tagline": "",
+                    "cast": "Chris Pratt, Samuel L. Jackson, Nicholas Hoult, Hannah Waddingham",
+                    "storyline": "ติดตามเรื่องย่อไทยได้เร็วๆ นี้"
+                }
+            ],
+            "tags": null,
+            "videos": [],
+            "images": [
+                {
+                    "id": 42527,
+                    "order": 1,
+                    "url": "https://showtimesth.s3.amazonaws.com/2023/05/8f3cdf9d637235dd08da289069f85a2be9751e65.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=c7a3216a3cbd4356127d4a592531b3f6f524d921548aac69eb17925b318cecb1",
+                    "type": "Poster",
+                    "thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2023/05/8f3cdf9d637235dd08da289069f85a2be9751e65-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=57c1806c48eb1dd6c3e9a80244c6bbeb6e527c2204e96d1215b5ac1f4b462408"
+                }
+            ],
+            "collections": [],
+            "watches": 0,
+            "duration": 0,
+            "active_screens": 0,
+            "vote_score": {
+                "avg": 0,
+                "score": 0,
+                "total": 0
+            },
+            "fav_movie": {
+                "star": false,
+                "follow": false,
+                "watched": false
+            },
+            "stars": 0,
+            "ratings": [],
+            "feeders": [
+                {
+                    "name": "sf",
+                    "url": "https://www.sfcinemacity.com/movie/Garfield.HO00001681"
+                }
+            ]
+        },
+        {
+            "id": 21952,
+            "title": "My Ex-Friend's Wedding",
+            "language": "en",
+            "release_date": "2024-05-09",
+            "details": [
+                {
+                    "id": 6947,
+                    "language": "en",
+                    "title": "My Ex-Friend's Wedding",
+                    "director": "Kay Cannon",
+                    "tagline": "",
+                    "cast": "Ariana DeBose, Amanda Seyfried, Chloe Fineman, Megan Stalter, Liza Koshy",
+                    "storyline": "After receiving a drunken voicemail from a former BFF on the eve of her wedding day, confessing that she thinks she’s making a mistake, four childhood former best friends plan to stop her from getting married."
+                },
+                {
+                    "id": 6939,
+                    "language": "th",
+                    "title": "My Ex-Friend's Wedding",
+                    "director": "Kay Cannon",
+                    "tagline": "",
+                    "cast": "Amanda Seyfried, Ariana DeBose, Liza Koshy",
+                    "storyline": "ติดตามเรื่องย่อไทยได้เร็วๆ นี้"
+                }
+            ],
+            "tags": [],
+            "videos": [],
+            "images": [
+                {
+                    "id": 43504,
+                    "order": 2,
+                    "url": "https://showtimesth.s3.amazonaws.com/2023/08/5b1f8fd471fc05abe6efbf9b0b2be8aecb3e97bb.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=f7b490277d8a7d443a565575afa7c03d0fc838237775fa036e2f41269dd369f7",
+                    "type": "Poster",
+                    "thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2023/08/5b1f8fd471fc05abe6efbf9b0b2be8aecb3e97bb-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=10646cf56b1203604d356d02b931dfb5b27baa501111c5a3e0941fc62f5b3b1f"
+                },
+                {
+                    "id": 43658,
+                    "order": 1,
+                    "url": "https://showtimesth.s3.amazonaws.com/2023/08/a2da706e5607a4518a1ca4e498c77d33117f3a03.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=84589e995ec673b70784c5d217b0f6900ceac015aaf71e3c1c7cba8b30d862d4",
+                    "type": "Poster",
+                    "thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2023/08/a2da706e5607a4518a1ca4e498c77d33117f3a03-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20230806%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20230806T163526Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=e5e0ee1d328276f4901f4b12875b64fe3e51880f7db327b2217af23e1281be1c"
+                }
+            ],
+            "collections": [],
+            "watches": 0,
+            "duration": 0,
+            "active_screens": 0,
+            "vote_score": {
+                "avg": 0,
+                "score": 0,
+                "total": 0
+            },
+            "fav_movie": {
+                "star": false,
+                "follow": false,
+                "watched": false
+            },
+            "stars": 0,
+            "ratings": [],
+            "feeders": [
+                {
+                    "name": "sf",
+                    "url": "https://www.sfcinemacity.com/movie/My-Ex-Friends-Wedding.HO00001770"
+                },
+                {
+                    "name": "tmdb",
+                    "url": "https://www.themoviedb.org/movie/1094646"
+                }
+            ]
+        }
+    ]
+}

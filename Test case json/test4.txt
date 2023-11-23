@@ -1,0 +1,4 @@
+{
+  "value": +42
+  "description": "Invalid number format"
+}

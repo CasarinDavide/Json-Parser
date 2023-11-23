@@ -1,0 +1,6 @@
+[
+  "apple", 
+  42, 
+  "banana", 
+  true,
+]
